@@ -15,6 +15,10 @@ public class StringExamples {
         char lastChar = str1.charAt(str1.length() - 1);  // h
         System.out.println("First: " + firstChar + ", Last: " + lastChar);
 
+        // convert to string 
+        String ageStr = String.valueOf(30); // "30"
+        System.out.println("Age as string: " + ageStr);
+
         // slicing (using substring)
         String str1Modified = str1.substring(0, 2) + "full name is " + str1.substring(12);
         System.out.println("Modified: " + str1Modified);  // my full name is nitesh
