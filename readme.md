@@ -43,7 +43,7 @@ This repository is designed for students, professionals, and interviewees who wa
 - **Common mehtods** (`toLowerCase`, `toUpperCase`, `replace`, `split`, `join`, etc.)
 - **Custom helpers** (`swapCase`, `stripChar`)
 
-Detailed Reference: [Array Operations](./java-ds/Strings/readme.md)
+Detailed Reference: [String Operations](./java-ds/Strings/readme.md)
 
 ### 🔹 Arrays
 
@@ -82,7 +82,7 @@ If you’d like to add new examples, fix typos, or expand explanations:
 - Fork the repo
 - Create a new branch (feature-xyz)
 - Commit your changes
-- Open a Pull Request 🚀
+- Open a Pull Request
 
 ## Support
 
